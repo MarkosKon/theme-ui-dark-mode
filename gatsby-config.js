@@ -1,4 +1,4 @@
 // gatsby-config.js
 module.exports = {
-  plugins: ["@affectionatedoor/gatsby-theme-ui"],
+  plugins: ["gatsby-plugin-theme-ui"],
 }
